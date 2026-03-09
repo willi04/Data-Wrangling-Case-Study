@@ -1,0 +1,6 @@
+"collector_id","collection_date","site_address","waste_weight","file_source"
+1,"2026-03-01","Rue de Prague 12000 !!",85.0974110770039,"data_month_3.csv"
+2,"02/03/2026","Avenue CAR, 75001 Paris",69.3407069542445,"data_month_3.csv"
+3,"March 3rd 2026","Zone 4 [85000]",52.4417996918783,"data_month_3.csv"
+4,"2026.03.04","Point 10 - 33000",48.7577985599637,"data_month_3.csv"
+5,"05-03-26","Site 5 / 67000 / RAS",77.2590198018588,"data_month_3.csv"
